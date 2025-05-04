@@ -1,4 +1,4 @@
-# Aprendiendo Python 
+# Compilando neuronas..
 
 <img src="https://i.ibb.co/5WxP53gt/image.png" alt="Mi imagen" width="30%"/>
 
