@@ -1,24 +1,28 @@
-# Compilando neuronas..
+# 🧠 Compilando neuronas...
 
-<img src="https://i.ibb.co/5WxP53gt/image.png" alt="Mi imagen" width="30%"/>
+<img src="https://i.ibb.co/5WxP53gt/image.png" alt="Mi imagen" width="30%" />
 
-
-¡Hola! 👋
-- Estudiante de ICINF
-- Primer año
-- Aprendiendo Python (Por el momento)
-
-## ¿Qué voy a subir?
-
-- Ejercicios (algunos los pasare desde PSeInt a Python)
-- Apuntes que me ayuden a entender mejor los temas
-- Cosas que voy probando mientras practico
-- Ejercicios de mis clases, tareas, etc.
-
-## ¿Solo Python?
-Por el momento, sí. Más adelante podré ir subiendo de algún otro lenguaje que pueda aprender a su debido tiempo.
-
+¡Hola! 👋  
+Soy estudiante de Ingeniería Civil en Informática (ICINF), actualmente en mi primer año.  
+Por ahora, estoy aprendiendo **Python**.
 
 ---
 
-Gracias por pasar por aquí.
+## 📦 ¿Qué voy a subir?
+
+- 📝 Ejercicios (algunos convertidos desde PSeInt a Python)
+- 📚 Apuntes que me ayuden a entender mejor los temas
+- ⚙️ Cosas que voy probando mientras practico
+- 📂 Ejercicios de clases, tareas, ejercicios, etc..
+
+---
+
+## 🐍 ¿Solo Python?
+
+Por ahora, sí.  
+Más adelante, iré subiendo proyectos en otros lenguajes que vaya aprendiendo a su debido tiempo.
+
+---
+
+Gracias por pasar por aquí 🙌  
+Siéntete libre de revisar, comentar o sugerir lo que quieras. ¡Todo aporte es bienvenido!
