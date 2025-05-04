@@ -1,7 +1,5 @@
 # 🧠 Compilando neuronas...
 
-<img src="https://i.ibb.co/5WxP53gt/image.png" alt="Mi imagen" width="30%" />
-
 ¡Hola! 👋  
 Soy estudiante de Ingeniería Civil en Informática (ICINF), actualmente en mi primer año.  
 Por ahora, estoy aprendiendo **Python**.
