@@ -3,8 +3,10 @@
 <img src="https://i.ibb.co/5WxP53gt/image.png" alt="Mi imagen" width="30%"/>
 
 
-¡Hola! 👋  
-Soy estudiante y estoy en proceso de aprendizaje en Python.
+¡Hola! 👋
+- Estudiante de ICINF
+- Primer año
+- Aprendiendo Python (Por el momento)
 
 ## ¿Qué voy a subir?
 
