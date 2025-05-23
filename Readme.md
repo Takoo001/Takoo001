@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="gato-bailando.gif" alt="Gato bailando" width="100%" />
-</p>
-
 # 🧠 Compilando neuronas...
 
-¡Hola! 👋  
+<p align="left">
+  <img src="gato-bailando.gif" alt="Gato bailando" width="80" align="left" />
+</p>
+
+**¡Hola!** 👋  
 Soy estudiante de Ingeniería Civil en Informática (ICINF), actualmente en mi primer año.  
 Por ahora, estoy aprendiendo **Python**.
+
+<br clear="left" />
 
 ---
 
@@ -25,6 +27,10 @@ Por ahora, sí.
 Más adelante, iré subiendo proyectos en otros lenguajes que vaya aprendiendo a su debido tiempo.
 
 ---
+
+Gracias por pasar por aquí 🙌  
+Siéntete libre de revisar, comentar o sugerir lo que quieras. ¡Todo aporte es bienvenido!
+
 
 Gracias por pasar por aquí 🙌  
 Siéntete libre de revisar, comentar o sugerir lo que quieras. ¡Todo aporte es bienvenido!
