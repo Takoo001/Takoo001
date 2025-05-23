@@ -1,7 +1,7 @@
 # 🧠 Compilando neuronas...
 
 <p align="center">
-  <img src="gato-bailando.gif" alt="Gato bailando" width="120" />
+  <img src="assets/gato-bailando.gif" alt="Gato bailando" width="120" />
 </p>
 
 **¡Hola!** 👋  
