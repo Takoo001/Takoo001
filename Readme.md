@@ -12,7 +12,7 @@ Por ahora, estoy aprendiendo **Python**.
 
 ## 📦 ¿Qué voy a subir?
 
-- 📝 Ejercicios (algunos convertidos desde PSeInt a Python)
+- 📝 Ejercicios (algunos convertidos desde Pseint a Python)
 - 📚 Apuntes que me ayuden a entender mejor los temas
 - ⚙️ Cosas que voy probando mientras practico
 - 📂 Ejercicios de clases, tareas, ejercicios, etc..
