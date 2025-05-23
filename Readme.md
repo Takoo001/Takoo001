@@ -1,8 +1,6 @@
 # 🧠 Compilando neuronas...
 
-<p align="center">
-  <img src="gato-bailando.gif" alt="Gato bailando" width="120" />
-</p>
+<img src="gato-bailando.gif" alt="Gato bailando" width="120">
 
 **¡Hola!** 👋  
 Soy estudiante de Ingeniería Civil en Informática (ICINF), actualmente en mi primer año.  
