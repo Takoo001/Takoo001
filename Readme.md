@@ -7,7 +7,6 @@
 
 **¡Hola!** 👋  
 Soy estudiante de Ingeniería Civil en Informática (ICINF), actualmente en mi primer año.  
-Por ahora, estoy aprendiendo **Python**.
 
 ---
 
@@ -17,13 +16,6 @@ Por ahora, estoy aprendiendo **Python**.
 - 📚 Apuntes que me ayuden a entender mejor los temas
 - ⚙️ Cosas que voy probando mientras practico
 - 📂 Ejercicios de clases, tareas, ejercicios, etc..
-
----
-
-## 🐍 ¿Solo Python?
-
-Por ahora, sí.  
-Más adelante, iré subiendo proyectos en otros lenguajes que vaya aprendiendo a su debido tiempo.
 
 ---
 
