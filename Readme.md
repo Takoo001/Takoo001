@@ -12,7 +12,7 @@ Soy estudiante de Ingeniería Civil en Informática (ICINF), Segundo semestre.
 
 ## 📦 ¿Qué voy a subir?
 
-- 📝 Ejercicios (algunos convertidos desde Pseint a Python)
+- 📝 Ejercicios convertidos desde Pseint a Python
 - 💡 Ejercicios basicos de analisis de datos en Jupyter
 - 📚 Apuntes que me ayuden a entender mejor los temas
 - ⚙️ Cosas que voy probando mientras practico
