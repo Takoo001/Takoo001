@@ -6,15 +6,17 @@
 
 
 **¡Hola!** 👋  
-Soy estudiante de Ingeniería Civil en Informática (ICINF), actualmente en mi primer año.  
+Soy estudiante de Ingeniería Civil en Informática (ICINF), Segundo semestre.  
 
 ---
 
 ## 📦 ¿Qué voy a subir?
 
 - 📝 Ejercicios (algunos convertidos desde Pseint a Python)
+- 💡 Ejercicios basicos de analisis de datos en Jupyter
 - 📚 Apuntes que me ayuden a entender mejor los temas
 - ⚙️ Cosas que voy probando mientras practico
+- 👨‍🎓 Proyectos que tendremos a lo largo de la carrera los cuales serviran al momento de terminarla
 - 📂 Ejercicios de clases, tareas, ejercicios, etc..
 
 ---
