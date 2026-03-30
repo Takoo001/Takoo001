@@ -7,7 +7,6 @@
 
 **¡Hola!** 👋  
 Soy estudiante de Ingeniería Civil en Informática (ICINF), Tercer semestre.  
-El primer año aprendi Python, actualmente me encuentro aprendiendo Java y Typescript 
 ---
 
 ## 📦 ¿Qué voy a subir?
