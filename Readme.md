@@ -6,19 +6,17 @@
 
 
 **¡Hola!** 👋  
-Soy estudiante de Ingeniería Civil en Informática (ICINF), Segundo semestre.  
-
+Soy estudiante de Ingeniería Civil en Informática (ICINF), Tercer semestre.  
+El primer año aprendi Python, actualmente me encuentro aprendiendo Java y Typescript 
 ---
 
 ## 📦 ¿Qué voy a subir?
 
 - 📝 Ejercicios convertidos desde Pseint a Python
 - 💡 Ejercicios basicos de analisis de datos en Jupyter
-- 📚 Apuntes que me ayuden a entender mejor los temas
 - ⚙️ Cosas que voy probando mientras practico
 - 👨‍🎓 Proyectos que tendremos a lo largo de la carrera los cuales serviran al momento de terminarla
 - 📂 Ejercicios de clases, tareas, ejercicios, etc..
-
 ---
 
 Gracias por pasar por aquí 🙌  
